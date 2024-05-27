@@ -1,5 +1,3 @@
-# World Data Commission (WDC)
-
 A non-government, non-profit organization who’s main objective is to build and maintain a free access repository of true data. That is, a repository containing all of the most critical information humans need to make geopolitical decisions and report accurately on current events.
 
 ## Why should we make the World Data Commission?
